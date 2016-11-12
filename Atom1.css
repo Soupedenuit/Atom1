@@ -1,0 +1,48 @@
+body {
+  background-color:black;font-family:verdana, sans-serif;
+    color:white;font-variant: none
+  }
+
+h1, h2
+  {text-align:center;}
+
+  #tony1 {
+    height:100px;border-style:solid;border-radius: 10%;position:fixed;right:10px;top:10px;opacity:0.9;
+  }
+
+#div1
+  {
+    padding:20px;
+    margin:50px 20px 20px 20px;
+    border-style:solid;
+    border-width:2px;
+    border-color:grey;
+
+  }
+
+  .class1
+    {font-family:serif}
+
+table, td, th {
+  border-style:solid;border-width:1px;border-color:white;border-collapse:collapse;padding:2px;margin:20px;
+}
+
+#endlessblue
+  {border-style:solid;border-width: 3px;display:block;margin-top:20px;margin-left:auto;margin-right:auto;height:30%;width:30%;}
+
+ol
+    {list-style-type:decimal}
+
+.quote
+    {text-align:center;font-size:1.5em;color:blue;}
+
+  #p1 {
+    margin:15px;float:right;
+  }
+  #p2 {
+    margin:15px;
+  }
+
+  #p3 {
+    margin:20px
+  }
